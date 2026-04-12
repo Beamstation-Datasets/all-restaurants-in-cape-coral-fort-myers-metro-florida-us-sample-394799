@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full metro-level restaurant coverage for Cape Coral-Fort Myers (Metro), Florida, spanning Cape Coral and Fort Myers. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Cape Coral-Fort Myers (Metro), Florida, US",
+  "export_job_id": "39e0a6bc-e5c0-4152-8d54-b6a80a7e1208",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 394799,
+  "location_name": "Cape Coral-Fort Myers, FL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-cape-coral-fort-myers-metro-florida-us-sample-394799",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/394799/beamstation_394799_restaurants-us-capecoralfortmyersfl_SAMPLE_DIST.csv",
+  "sample_pct": 2.01,
+  "sample_records": 25,
+  "sample_sha256": "764ee3e1b1d33064103bd5a28d12e0dc9edb4071360b04bc0513d9c1862e5da2",
+  "sample_size_bytes": 123819,
+  "total_records": 1245,
+  "updated_at": "2026-03-31T13:40:58.651607+00:00"
+}
