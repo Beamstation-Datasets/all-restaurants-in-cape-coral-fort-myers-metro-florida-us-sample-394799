@@ -1,12 +1,12 @@
 {
-  "export_job_id": "012c599d-45ac-4c0b-9791-77d6d297716e",
+  "export_job_id": "d46d6097-8219-4023-84f9-d436b6ef48f1",
   "id_short": 394799,
-  "published_at": "2026-04-28T19:22:20Z",
+  "published_at": "2026-05-06T19:09:42Z",
   "repo_name": "all-restaurants-in-cape-coral-fort-myers-metro-florida-us-sample-394799",
   "sample_asset_name": "beamstation_394799_restaurants-us-capecoralfortmyersfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/394799/beamstation_394799_restaurants-us-capecoralfortmyersfl_SAMPLE_DIST.csv",
-  "sample_records": 171,
-  "sample_sha256": "54d12e8b9f6d0f00ecaac1b04f1e3f2d64d270bb771f2e8a2d6f6671ace5d767",
-  "sample_size_bytes": 630521,
-  "total_records": 1716
+  "sample_records": 182,
+  "sample_sha256": "b234adca59e3545cc69dc01323ae4c1cb7bd13d3e7415c5804d2b277d0918858",
+  "sample_size_bytes": 633373,
+  "total_records": 1827
 }
