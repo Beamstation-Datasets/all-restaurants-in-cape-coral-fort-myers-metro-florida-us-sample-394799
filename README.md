@@ -1,6 +1,6 @@
 # All Restaurants in Cape Coral-Fort Myers (Metro), Florida, US
 
-> Free BeamStation sample export with 171 rows and masked direct-contact fields.
+> Free BeamStation sample export with 182 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `394799` |
 | Location | Cape Coral-Fort Myers, FL |
 | Category | Restaurants |
-| Full dataset size | 1,716 records |
-| Free sample size | 171 records (9.97%) |
-| Last export | 2026-04-28T16:05:55.663997+00:00 |
+| Full dataset size | 1,827 records |
+| Free sample size | 182 records (9.96%) |
+| Last export | 2026-05-06T12:35:55.468440+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cape-coral-fort-myers-metro-florida-us-sample-394799/releases/download/sample-latest/beamstation_394799_restaurants-us-capecoralfortmyersfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
